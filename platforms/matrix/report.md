@@ -31,5 +31,3 @@
 
 <!-- TODO: Replace with your matrix handle -->
 `@davidchoulex:davidchoulex.me`
-
-Overall the project is challenging but I find it enjoyable and engaging :)
